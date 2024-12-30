@@ -1,0 +1,10 @@
+name: Free
+version: '1.0-SNAPSHOT'
+main: org.ibear.free.Free
+api-version: '1.21'
+authors: [iBear]
+website: ibear.co
+commands:
+  free:
+    description: FREE
+    usage: /<command>
